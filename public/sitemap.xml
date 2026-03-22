@@ -1,71 +1,71 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://stackpick.io/</loc>
+    <loc>https://appverdicts.com/</loc>
     <changefreq>weekly</changefreq>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://stackpick.io/blog/</loc>
+    <loc>https://appverdicts.com/blog/</loc>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
-    <loc>https://stackpick.io/about/</loc>
+    <loc>https://appverdicts.com/about/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>https://stackpick.io/contact/</loc>
+    <loc>https://appverdicts.com/contact/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
-    <loc>https://stackpick.io/categories/crm/</loc>
+    <loc>https://appverdicts.com/categories/crm/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stackpick.io/categories/email-marketing/</loc>
+    <loc>https://appverdicts.com/categories/email-marketing/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stackpick.io/categories/project-management/</loc>
+    <loc>https://appverdicts.com/categories/project-management/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stackpick.io/categories/accounting/</loc>
+    <loc>https://appverdicts.com/categories/accounting/</loc>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
-    <loc>https://stackpick.io/blog/best-crm-small-business/</loc>
+    <loc>https://appverdicts.com/blog/best-crm-small-business/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <lastmod>2025-01-15</lastmod>
   </url>
   <url>
-    <loc>https://stackpick.io/blog/hubspot-vs-salesforce/</loc>
+    <loc>https://appverdicts.com/blog/hubspot-vs-salesforce/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <lastmod>2025-01-22</lastmod>
   </url>
   <url>
-    <loc>https://stackpick.io/blog/best-email-marketing-software/</loc>
+    <loc>https://appverdicts.com/blog/best-email-marketing-software/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <lastmod>2025-01-29</lastmod>
   </url>
   <url>
-    <loc>https://stackpick.io/blog/best-project-management-tools/</loc>
+    <loc>https://appverdicts.com/blog/best-project-management-tools/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <lastmod>2025-02-05</lastmod>
   </url>
   <url>
-    <loc>https://stackpick.io/blog/wave-vs-quickbooks-vs-freshbooks/</loc>
+    <loc>https://appverdicts.com/blog/wave-vs-quickbooks-vs-freshbooks/</loc>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
     <lastmod>2025-02-12</lastmod>
