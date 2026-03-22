@@ -1,0 +1,23 @@
+// Affiliate link constants
+// Replace these placeholder strings with your actual affiliate URLs
+
+export const HUBSPOT_AFFILIATE = 'https://hubspot.com/?ref=stackpick'
+export const CONVERTKIT_AFFILIATE = 'https://convertkit.com/?ref=stackpick'
+export const MONDAY_AFFILIATE = 'https://monday.com/?ref=stackpick'
+export const PIPEDRIVE_AFFILIATE = 'https://pipedrive.com/?ref=stackpick'
+export const ACTIVECAMPAIGN_AFFILIATE = 'https://activecampaign.com/?ref=stackpick'
+export const FRESHSALES_AFFILIATE = 'https://freshworks.com/crm/sales/?ref=stackpick'
+export const ZOHO_AFFILIATE = 'https://zoho.com/crm/?ref=stackpick'
+export const CLOSE_AFFILIATE = 'https://close.com/?ref=stackpick'
+export const MAILCHIMP_AFFILIATE = 'https://mailchimp.com/?ref=stackpick'
+export const BREVO_AFFILIATE = 'https://brevo.com/?ref=stackpick'
+export const KLAVIYO_AFFILIATE = 'https://klaviyo.com/?ref=stackpick'
+export const BEEHIIV_AFFILIATE = 'https://beehiiv.com/?ref=stackpick'
+export const NOTION_AFFILIATE = 'https://notion.so/?ref=stackpick'
+export const ASANA_AFFILIATE = 'https://asana.com/?ref=stackpick'
+export const CLICKUP_AFFILIATE = 'https://clickup.com/?ref=stackpick'
+export const LINEAR_AFFILIATE = 'https://linear.app/?ref=stackpick'
+export const TRELLO_AFFILIATE = 'https://trello.com/?ref=stackpick'
+export const QUICKBOOKS_AFFILIATE = 'https://quickbooks.intuit.com/?ref=stackpick'
+export const FRESHBOOKS_AFFILIATE = 'https://freshbooks.com/?ref=stackpick'
+export const WAVE_AFFILIATE = 'https://waveapps.com/?ref=stackpick'
